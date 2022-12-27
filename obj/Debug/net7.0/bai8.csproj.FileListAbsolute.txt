@@ -1,0 +1,15 @@
+/home/hlam/oop/bai8/bin/Debug/net7.0/bai8
+/home/hlam/oop/bai8/bin/Debug/net7.0/bai8.deps.json
+/home/hlam/oop/bai8/bin/Debug/net7.0/bai8.runtimeconfig.json
+/home/hlam/oop/bai8/bin/Debug/net7.0/bai8.dll
+/home/hlam/oop/bai8/bin/Debug/net7.0/bai8.pdb
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.csproj.AssemblyReference.cache
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.AssemblyInfoInputs.cache
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.AssemblyInfo.cs
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.csproj.CoreCompileInputs.cache
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.dll
+/home/hlam/oop/bai8/obj/Debug/net7.0/refint/bai8.dll
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.pdb
+/home/hlam/oop/bai8/obj/Debug/net7.0/bai8.genruntimeconfig.cache
+/home/hlam/oop/bai8/obj/Debug/net7.0/ref/bai8.dll
